@@ -9,6 +9,7 @@ dynamic = ["version"]
 readme = "README.md"
 authors = [
   {name = "Jonathan Stoppani", email = "jonathan@stoppani.name"},
+  {name = "Pradyun Gedam", email = "pradyunsg@gmail.com"},
 ]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
